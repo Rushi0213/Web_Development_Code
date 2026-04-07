@@ -1,0 +1,22 @@
+/* descending cs */
+div p
+{
+    color: red;
+}
+
+/* child cs */
+
+div>p
+{
+    background-color: red;
+color: white;
+}
+
+/* adjucent cs */
+ div+p{
+    color: orange;
+ }
+/* general cs */
+div~p{
+    background-color: cadetblue;
+}

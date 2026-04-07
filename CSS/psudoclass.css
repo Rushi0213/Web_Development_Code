@@ -1,0 +1,29 @@
+p:hover
+{
+    color: red;
+}
+p:first-child
+{
+    background-color: blue;
+}
+
+p:last-child
+{
+   color:orange;
+}
+p:nth-child(2)
+{
+background-color: aquamarine;
+}
+p:active
+{
+    background-color: black;
+}
+p:focus
+{
+    background-color: blueviolet;
+}
+ p:enabled
+ {
+    color: blue;
+ }

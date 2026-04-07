@@ -1,0 +1,25 @@
+section
+{
+    height: 150vh;
+    width: 100%;
+    display: flex;
+    border:double;
+    flex-wrap: wrap;
+}
+div{
+    height: 350px;
+    width: 270px;
+    background-color:bisque;
+    border: dotted;
+     margin-left: 30px;
+     margin-top: 10px;
+     text-align: center;
+    
+}
+img
+{
+    height: 230px;
+    width: 250px;
+    padding: 10px;
+}
+

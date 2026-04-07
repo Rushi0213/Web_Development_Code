@@ -1,0 +1,53 @@
+body
+{
+   
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-image: url("./pexels-sarthak-banga-2150431485-36386079.jpg");
+    /* blur image using opacity */
+    opacity: 0.6;
+}
+section
+{
+    color: white;
+   font-style: italic;
+   /* text indent use for creating paragraph */
+    text-align:left;
+    /* text indent usse to create space in starting paragraph */
+    /* text-indent: 500px; */
+}
+
+p:hover
+{
+    color: red;
+}
+
+p:nth-child(4)
+{
+    color: aqua;
+}
+p:first-child
+{
+    color:pink;
+}
+
+p::first-letter
+{
+    color:orangered;
+}
+p::first-line
+{
+    color:blueviolet;
+}
+p::before
+{
+    content: "hello html ";
+    color: blue;
+}
+p::after
+{
+    content: " thank you";
+    color: blue;
+}
+

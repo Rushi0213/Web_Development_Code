@@ -1,0 +1,23 @@
+img
+{
+    height: 400px;
+    width: 400px;
+    /* float: right; */
+    box-shadow: 30px 30px 40px 40px black;
+    /* border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px; */
+    border-radius: 300px;
+    margin-right: 360px;
+    margin-top: 70px;
+}
+h1
+{
+    text-align: center;
+    color: brown;
+    font-size: 50px;
+    text-transform: uppercase;
+    text-decoration: underline;
+   
+}

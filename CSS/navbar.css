@@ -1,0 +1,25 @@
+nav
+{
+    height:55px;
+    width: 100%;
+    background-color: black;
+}
+a
+{
+    color: white;
+    text-decoration: none;
+
+}
+article
+{
+    height:55px;
+    width: 100%;
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+}
+a:hover
+{
+    font-size: 10px;
+    color: bisque;
+}

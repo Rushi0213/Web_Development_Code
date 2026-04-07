@@ -1,0 +1,22 @@
+p::first-letter
+{
+    color: red;
+}
+p::first-line
+{
+    color: pink;
+}
+p::before
+{
+    content: "hello ";
+}
+p::after
+{
+    content: " thank you";
+}
+/* when we want to select paragraph for copy then use this */
+p::selection
+{
+  
+    background-color:rgb(54, 89, 139);
+}

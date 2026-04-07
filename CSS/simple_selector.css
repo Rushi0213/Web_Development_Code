@@ -1,0 +1,27 @@
+#p11
+{
+    color:red;
+    font-size: large;
+    background:yellow;
+}
+.p22
+{
+    color: green;
+}
+
+div{
+    background: yellow;
+}
+#p23
+{
+    color: red;
+}
+
+#p11,.p22,h2,p{
+    background-color: antiquewhite;
+}
+
+*
+{
+    background: linear-gradient(pink,purple);
+}

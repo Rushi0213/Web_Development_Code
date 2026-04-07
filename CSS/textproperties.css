@@ -1,0 +1,17 @@
+p
+{
+    color: red;
+    text-indent: 500px;
+    text-decoration: underline;
+    text-decoration-color: darkgreen;
+    text-decoration-style: wavy;
+    text-transform: capitalize;
+    
+
+}
+h1
+{
+    text-align: center;
+    color: blue;
+    text-shadow: 20px 30px 2px red;
+}
