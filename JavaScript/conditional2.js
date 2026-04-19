@@ -6,7 +6,7 @@
 // 🔷 1. IF STATEMENT
 console.log("---- IF STATEMENT ----");
 
-let age = 18;
+let age =18;
 
 if (age >= 18) {
     console.log("You are eligible to vote");
@@ -16,9 +16,9 @@ if (age >= 18) {
 // 🔷 2. IF ELSE
 console.log("---- IF ELSE ----");
 
-let marks = 40;
+let marks = 35;
 
-if (marks >= 50) {
+if (marks >= 35) {
     console.log("You passed");
 } else {
     console.log("You failed");
