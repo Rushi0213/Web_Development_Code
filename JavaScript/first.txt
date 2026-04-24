@@ -1,1 +1,2 @@
-this is my javascript folder and first file on js
+This is my javascript folder and first file on js.
+In the folder of javascript i have uploadedsome codes.
